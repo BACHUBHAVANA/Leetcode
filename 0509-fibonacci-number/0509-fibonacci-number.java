@@ -5,3 +5,4 @@ class Solution {
        else return fib(n-1)+fib(n-2);
     }
 }
+//time complexity=O(2^n) space=O(n)
