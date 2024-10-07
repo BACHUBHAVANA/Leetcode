@@ -15,3 +15,5 @@ class Solution {
     }
 }
 //time complexity=O(n) space=O(n)
+//dp=recursive+memoization 
+//we are using another function because needed arguments are 2
